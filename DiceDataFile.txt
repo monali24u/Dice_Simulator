@@ -1,0 +1,10 @@
+NumRolls=20
+Die=Die1
+LoadedSide=3
+LoadAmount=2
+Die=Die2
+LoadedSide=6
+LoadAmount=10
+Die=Die3
+LoadedSide=1
+LoadAmount=5
