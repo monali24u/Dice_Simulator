@@ -12,8 +12,9 @@ Execute -
 Important Notes
 1) main.cpp - This is the main application start source file.
 2) DiceDataFile.txt - This is the input file. This file needs to be kept with other source files
-3) The program is designed to use more than two dices for extensibility. So adding any number of dices to the input file should work.
-4) The program is designed such that a dice can have any number of sides and the sides can have any values for extensibility. 
+3) 3dice_15throws.png - Sample output
+4) The program is designed to use more than two dices for extensibility. So adding any number of dices to the input file should work.
+5) The program is designed such that a dice can have any number of sides and the sides can have any values for extensibility. 
    As of now the default values have been set to six for number of sides and the value of the dice is 1 to 6
 	
 /////////////////////////////////////////////////////////////////////////////
